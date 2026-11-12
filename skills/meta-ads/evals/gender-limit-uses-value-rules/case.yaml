@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: gender-limit-uses-value-rules
+expected_outcome: |
+  The reply explains that gender stopped being a hard limit in late 2026 and is now only a suggestion, and that the working alternative is a value rule that lowers the bid for men by up to 90%, created under Advertising settings > Value rules and then switched on in each ad set.
+  It may suggest checking the gender breakdown first to see how much spend is really going to men. It does not send the user to build separate ad sets or interest stacks as the fix, and it notes that options roll out per account.

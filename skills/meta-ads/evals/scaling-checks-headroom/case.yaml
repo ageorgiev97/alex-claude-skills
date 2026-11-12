@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: scaling-checks-headroom
+expected_outcome: |
+  The reply works out ROAS (about 2.8) and break-even ROAS (about 2.6 from a 38% margin), shows that profit after ad spend is thin (roughly $1,000 on $15k), and explains that ROAS falls as spend rises, so tripling overnight would very likely push the account below break-even.
+  It advises against the single jump and proposes a gradual method with numbers (stepped increases every several days and/or an automated rule of about 3% a day with a cap), names how to build headroom (more and different creative, order value or repeat purchase, offer), and raises stock or capacity and Q4 costs as checks.

@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: audit-finds-wrong-goal-and-fragmentation
+expected_outcome: |
+  The reply works out the allowable cost per lead from the user's numbers (about £420 break-even: £12,000 x 35% x 10%) and judges the account against it.
+  It finds the main setup faults: ad sets optimising for landing page views instead of leads, a structure split across interest, lookalike and retargeting ad sets with a handful of leads each, and location set to the whole UK for a Leeds business.
+  It recommends consolidating to one conversion-optimised campaign and ad set (warm and cold together), fixing the location, and fixing instant form quality with a higher intent form, SMS verification and/or a qualifying or location question.
+  It treats the awareness campaign as money to move, or at most a later addition, not something to grow now. It says the conversion counts are too small for fine comparisons, and it keeps the recommendations few and ranked.

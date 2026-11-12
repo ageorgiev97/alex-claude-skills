@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: test-readout-refuses-early-call
+expected_outcome: |
+  The reply says no: 3 purchases and 1 purchase are not enough to rank the new ads, and the old ad should stay on because it carries the volume and Meta is choosing to spend on it.
+  It states the break-even ROAS implied by a 55% margin (about 1.8), notes that click-through rate does not decide anything, and gives a point at which the question can be answered (a conversion count or rough time at this volume), optionally pointing to "Push delivery to this ad" or the creative testing tool as a way to get a new ad enough spend.
